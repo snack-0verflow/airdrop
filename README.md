@@ -1,5 +1,6 @@
 ## WBA Enrollment Dapp
 
+### Tasks
 - [x] Keypair generation
 - [x] Private key (uint array) to secrets (string) conversion
 - [x] Transaction building with Lamports transfer instructions
